@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f9f2e4;
+    background-color: #f1efe8;
     color: #333;
     line-height: 1.6;
     overflow-x: hidden;
@@ -16,7 +16,7 @@ body {
 /* Cabeçalho */
 header {
     background-color: #ffcb5a;
-    color: white;
+    color: #f1efe8;
     text-align: center;
     padding: 2.5rem;
 }
@@ -24,7 +24,7 @@ header {
 header h1 {
     font-family: 'Fredoka One', cursive;
     font-size: 3.5rem;
-    color: #ff5722;
+    color: #663a2d;
 }
 
 header p {
@@ -36,13 +36,13 @@ header p {
 #about {
     padding: 2rem;
     text-align: center;
-    background-color: #fff7e8;
+    background-color: #f1efe8;
 }
 
 #about h2 {
     font-family: 'Fredoka One', cursive;
     font-size: 2.5rem;
-    color: #ff5722;
+    color: #e79d86;
 }
 
 #about p {
@@ -53,14 +53,14 @@ header p {
 /* Seção de Menu */
 #menu {
     padding: 2rem;
-    background-color: #ffe6cc;
+    background-color: #f1efe8;
     text-align: center;
 }
 
 #menu h2 {
     font-family: 'Fredoka One', cursive;
     font-size: 2.5rem;
-    color: #ff5722;
+    color: #9b452b;
     margin-bottom: 1.5rem;
 }
 
@@ -78,20 +78,20 @@ header p {
 .menu-item h3 {
     font-family: 'Fredoka One', cursive;
     font-size: 1.8rem;
-    color: #ff7043;
+    color: #9b452b;
 }
 
 /* Seção de Alunas */
 #students {
     padding: 2rem;
-    background-color: #fff7e8;
+    background-color: #f1efe8;
     text-align: center;
 }
 
 #students h2 {
     font-family: 'Fredoka One', cursive;
     font-size: 2.5rem;
-    color: #ff5722;
+    color: #7a321c;
     margin-bottom: 1rem;
 }
 
@@ -152,13 +152,13 @@ header p {
 
 #highlight h2 {
     font-family: 'Fredoka One', cursive;
-    color: #ff5722;
+    color: #9b452b;
     margin-bottom: 1rem;
 }
 
 #highlight h3 {
     font-family: 'Fredoka One', cursive;
-    color: #ff7043;
+    color: #9b452b;
     margin-top: 1.5rem;
 }
 
@@ -176,7 +176,7 @@ header p {
 
 #cart h2 {
     font-family: 'Fredoka One', cursive;
-    color: #ff5722;
+    color: #9b452b;
 }
 
 #cart-items {
@@ -188,7 +188,7 @@ header p {
 }
 
 #checkout-button {
-    background-color: #ff5722;
+    background-color: #9b452b;
     color: white;
     border: none;
     padding: 1rem 2rem;
@@ -198,13 +198,13 @@ header p {
 }
 
 #checkout-button:hover {
-    background-color: #e64a19;
+    background-color: #9b452b;
 }
 
 #qr-code {
     text-align: center;
     padding: 2rem;
-    background-color: #fff7e8;
+    background-color: #f1efe8;
 }
 #sobre-a-feira, #cardapio, #alunas-empreendedoras, #cart {
     padding: 2rem;
@@ -214,7 +214,7 @@ header p {
 
 h2 {
     font-family: 'Fredoka One', cursive;
-    color: #ff5722;
+    color: #9b452b;
 }
 /* Estilo do menu de navegação */
 nav {
@@ -248,5 +248,5 @@ nav a {
 }
 
 nav a:hover {
-    color: #ff5722;
+    color: #9b452b;
 }
